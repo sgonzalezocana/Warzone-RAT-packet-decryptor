@@ -1,6 +1,10 @@
 # Warzone-RAT-packet-decryptor
 Warzone RAT packet decryptor is a tool to detect and decrypt malicious packets related to Warzone RAT malware family from a PCAP file. This application can track all the activity performed by the malicious actor, showing the content of the packets exchanged between the C2 and the infected user.
 
+# Original article and explanation
+
+https://security-garage.com/index.php/es/malware/automatizando-el-descifrado-de-comunicaciones-de-warzone-rat
+
 # Installation
 To use the script it is necessary to install the Scapy and Chepy libraries.
 ```python
